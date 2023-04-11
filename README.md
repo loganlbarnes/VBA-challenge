@@ -1,2 +1,2 @@
 # VBA-challenge
-Module 2 for UCI Data Analytics Bootcamp
+Module 2 (VBA Challenge) for UCI Data Analytics Bootcamp
